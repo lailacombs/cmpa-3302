@@ -1,5 +1,6 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Creative Writing
+introduction: Creative writing is a powerful medium that touches souls through storytelling.
 ---
 ## The index page
 
