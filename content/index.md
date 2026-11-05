@@ -6,6 +6,13 @@ introduction: Creative writing is a powerful medium that touches souls through s
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
 
+## Main Categories 
+- **[[category-01/index|Scriptwriting]]**
+- **[[category-02/index|Creative Nonfiction]]** 
+- **[[category-02/index|Journaling & Personal Writing]]**
+- **[[category-02/index|Poetry]]**
+- **[[category-02/index|Prose]]**
+
 ## Editing pages
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
@@ -39,5 +46,5 @@ You can use any text editor capable of opening and editing Markdown files.
 ---
 ## Adding new pages
 
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
+You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc]] to learn more.
 
