@@ -1,7 +1,11 @@
 ---
 title: Creative Nonfiction
 ---
-## The Category 02 category index page
+## Creative Nonfiction index page
+
+## Related Categories 
+
+Creative nonfiction can take shape as a [[content/category-01/index|television series, movie, or play]]. 
 
 ### What is this page?
 
