@@ -5,7 +5,7 @@ title: Creative Nonfiction
 
 ## Related Categories 
 
-Creative nonfiction can take shape as a [[content/category-01/index|television series, movie, or play]]. 
+Creative nonfiction can take shape as a [[content/category-01/index|television series, movie, or play]].
 
 ### What is this page?
 

@@ -5,7 +5,7 @@ title: Scriptwriting
 
 ## Related Categories 
 
-Many scripts written for the screen or stage are often inspired by [[content/category-02/index|modern or historical events]]. 
+Many scripts written for the screen or stage are often inspired by [[content/category-02/index|modern or historical events]].
 
 ### What is this page?
 
