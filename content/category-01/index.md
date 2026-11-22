@@ -2,8 +2,7 @@
 title: Scriptwriting
 ---
 ## Scriptwriting Index Page
-[[content/category-01/The Challenge of Scriptwriting]]
-[[content/category-01/The Challenge of Scriptwriting|The Challenge of Scriptwriting]]
+[[The Challenge of Scriptwriting|The Challenge of Scriptwriting]]
 [[content/category-01/Admired Scriptwriters|Admired Scriptwriters]] 
 [[content/category-01/The Framework of a Script|The Framework of a Script]]
 [[content/category-01/From Script to Screen|From Script to Screen]]
