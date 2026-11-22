@@ -8,7 +8,7 @@ This is the index page (`content/index.md`) of your knowledge base docs. It serv
 
 ## Main Categories 
 - **[[category-01/index|Scriptwriting]]**
-- **[[category-02/index|Creative Nonfiction]]** 
+- **[[category-02/index|Creative Nonfiction]]**
 - **[[category-02/index|Journaling & Personal Writing]]**
 - **[[category-02/index|Poetry]]**
 - **[[category-02/index|Prose]]**

@@ -17,6 +17,6 @@ To most people, scripts look a bit...strange. They include sluglines that indica
 
 
 [[content/category-01/The Challenge of Scriptwriting|The Challenge of Scriptwriting]]
-[[content/category-01/Admired Scriptwriters|Admired Scriptwriters]] 
+[[content/category-01/Admired Scriptwriters|Admired Scriptwriters]]
 [[content/category-01/From Script to Screen|From Script to Screen]]
 [[content/category-01/What Makes A Good Script|What Makes A Good Script]] 
