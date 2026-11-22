@@ -22,6 +22,6 @@ To most people, scripts look a bit...strange. They include sluglines that indica
 
 [Admired Scriptwriters](admired-scriptwriters.md)
 
-[From Script to Screen](from-script to-screen.md)
+[From Script to Screen](from-script-to-screen.md)
 
 [What Makes a Good Script](what-makes-a-good-script.md)

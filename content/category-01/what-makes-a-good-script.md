@@ -36,4 +36,4 @@ There is no doubt it takes skill and determination to write a script. What class
 
 [The Framework of a Script](the-framework-of-a-script.md)
 
-[From Script to Screen](from-script to-screen.md)
+[From Script to Screen](from-script-to-screen.md)
