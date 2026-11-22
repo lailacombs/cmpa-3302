@@ -1,6 +1,8 @@
 ## Scriptwriting 
 ### What Makes A Good Script
-![[its-a-wonderful-life.jpg]]
+
+![George Bailey and his family in *It's A Wonderful Life*](its-a-wonderful-life.jpg)
+
 (George Bailey and his family in *It's A Wonderful Life*)
 
 There is no doubt it takes skill and determination to write a script. What classifies a script as good or bad is less straightforward. No genre is an automatic success. A romantic script won't inherently be any better than a comedy. 

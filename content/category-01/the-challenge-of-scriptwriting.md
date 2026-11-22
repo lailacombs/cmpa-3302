@@ -1,8 +1,8 @@
 # Scriptwriting 
 ## The Challenge of Scriptwriting 
 
-![[scriptwriting.jpg|429]]
-(Pages of a screenplay)
+
+![Pages of a screenplay|461](scriptwriting.jpg)
 
 - Idea creation
 - Breaking down moments to incredible detail

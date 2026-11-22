@@ -11,7 +11,7 @@ Script expert:
  This is the introduction to one of James Cameron's most popular characters in the blockbuster film *Avatar*. In the script, he had to paint an image in the readers' mind so they would envision what he did when he created Neytiri. 
 ### What James Cameron Saw
  
- ![[avatar-image.jpg|285]]
+ ![An image of Neytitri|297](avatar-image.jpg)
 (An image of Neytitri)
 
 [[the-challenge-of-scriptwriting|The Challenge of Scriptwriting]]

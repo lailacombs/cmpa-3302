@@ -1,6 +1,8 @@
 # Screenwriting
 ## The Framework of a Script
-![[story-structure.jpg]]
+
+![Visual representation of a three-act structure|599](story-structure.jpg)
+(Visual representation of a three-act structure)
 
 ### 1. Story Structure 
 Most narrative scripts organize events into a progression of goals, obstacles, and outcomes:

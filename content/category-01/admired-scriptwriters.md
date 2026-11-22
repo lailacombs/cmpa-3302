@@ -1,15 +1,15 @@
 # Screenwriting
 ## Scriptwriters I Admire
 1. **Emma Thompson** 
-	![[Emma-thompson.jpg|203]]
+	![Headshot of Emma|314](Emma-thompson.jpg)
 	(Headshot of Emma)
 
 2. **Sara Davidson** 
-	 ![[sara-davidson.jpg|224]]
+	 ![Headshot of Sara|312](sara-davidson.jpg)
 	 (Headshot of Sara)
 
 4. **Jon Erwin** 
-	![[jon-erwin.jpg|233]]]
+	![Headshot of Jon|313](jon-erwin.jpg)]
 	(Headshot of Jon)
 
 ### What stands out about them
