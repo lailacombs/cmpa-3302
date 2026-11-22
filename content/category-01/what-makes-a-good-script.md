@@ -28,7 +28,7 @@ There is no doubt it takes skill and determination to write a script. What class
 > A good script requires some novelty and loads of empathy.
 
 
-[[content/category-01/The Challenge of Scriptwriting|The Challenge of Scriptwriting]]
-[[content/category-01/Admired Scriptwriters|Admired Scriptwriters]] 
-[[content/category-01/The Framework of a Script|The Framework of a Script]]
-[[content/category-01/From Script to Screen|From Script to Screen]]
+[[the-challenge-of-scriptwriting|The Challenge of Scriptwriting]]
+[[content/category-01/admired-scriptwriters|Admired Scriptwriters]]
+[[content/category-01/the-framework-of-a-script|The Framework of a Script]]
+[[content/category-01/from-script to-screen|From Script to Screen]]

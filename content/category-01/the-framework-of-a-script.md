@@ -16,7 +16,7 @@ To most people, scripts look a bit...strange. They include sluglines that indica
 >Without structure, a story can never be understood. 
 
 
-[[content/category-01/The Challenge of Scriptwriting|The Challenge of Scriptwriting]]
-[[content/category-01/Admired Scriptwriters|Admired Scriptwriters]]
-[[content/category-01/From Script to Screen|From Script to Screen]]
-[[content/category-01/What Makes A Good Script|What Makes A Good Script]] 
+[[the-challenge-of-scriptwriting|The Challenge of Scriptwriting]]
+[[content/category-01/admired-scriptwriters|Admired Scriptwriters]]
+[[content/category-01/from-script to-screen|From Script to Screen]]
+[[content/category-01/what-makes-a-good-script|What Makes a Good Script]]

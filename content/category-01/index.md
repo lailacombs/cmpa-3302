@@ -3,11 +3,10 @@ title: Scriptwriting
 ---
 ## Scriptwriting Index Page
 [[the-challenge-of-scriptwriting|The Challenge of Scriptwriting]]
-[[content/category-01/Admired Scriptwriters|Admired Scriptwriters]] 
-[[content/category-01/The Framework of a Script|The Framework of a Script]]
-[[content/category-01/From Script to Screen|From Script to Screen]]
-[[content/category-01/What Makes A Good Script|What Makes A Good Script]] 
-
+[[content/category-01/admired-scriptwriters|Admired Scriptwriters]]
+[[content/category-01/the-framework-of-a-script|The Framework of a Script]]
+[[content/category-01/from-script to-screen|From Script to Screen]]
+[[content/category-01/what-makes-a-good-script|What Makes a Good Script]]
 
 ## Related Categories 
 
@@ -24,25 +23,3 @@ Many scripts written for the screen or stage are often inspired by [[content/cat
 
 
 
-
-
-
-
-
-
-
-### What is this page?
-
-This is an example category index page inside the knowledge base. This page is located within the `example-category-01` folder, which is located within the `content/` folder. 
-
-On your local computer, this page corresponds to the file path: `content/example-category-01/index.md`.
-
-### Naming a category page's index
-
-Why is this page's file name `index` (`example-category-01/index.md`) instead of **Category 01**?
-
-This file uses the `title` property/frontmatter to specify the category page title (e.g., `Category 01`). 
-
-Any text added to a category folder's `index.md` file will be used as the descriptive text for the category page.
-
-A similar category is [[content/category-02/index| Category 02]], which also uses the `index.md` method to specify a category page title and descriptive text.
