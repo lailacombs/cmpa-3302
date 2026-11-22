@@ -2,7 +2,7 @@
 title: Scriptwriting
 ---
 ## Scriptwriting Index Page
-
+[[content/category-01/The Challenge of Scriptwriting]]
 [[content/category-01/The Challenge of Scriptwriting|The Challenge of Scriptwriting]]
 [[content/category-01/Admired Scriptwriters|Admired Scriptwriters]] 
 [[content/category-01/The Framework of a Script|The Framework of a Script]]
@@ -44,6 +44,6 @@ Why is this page's file name `index` (`example-category-01/index.md`) instead of
 
 This file uses the `title` property/frontmatter to specify the category page title (e.g., `Category 01`). 
 
-Any text added to a category folder's `index.md` file  will be used as the descriptive text for the category page.
+Any text added to a category folder's `index.md` file will be used as the descriptive text for the category page.
 
 A similar category is [[content/category-02/index| Category 02]], which also uses the `index.md` method to specify a category page title and descriptive text.
