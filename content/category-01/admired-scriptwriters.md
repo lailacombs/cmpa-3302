@@ -11,7 +11,7 @@
 4. **Jon Erwin** 
 	![Headshot of Jon|313](jon-erwin.jpg)]
 	(Headshot of Jon)
-![[jon-erwin.jpg|391]]
+
 ### What stands out about them
 
  First, Emma Thompson: the screenwriter of one of my favorite films of all time, *Sense and Sensibility*. Emma had the incredible challenge of adapting Jane Austen's novel to a film and did it with more grace and genius than I ever could. She went above and beyond to influence decisions made for costumes, location, and even the director they selected to lead the project. Her empathy helps her strike the perfect balance between satire and comedy.

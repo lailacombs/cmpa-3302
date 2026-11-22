@@ -5,16 +5,15 @@ title: Scriptwriting
 
 Content:
 
-[[the-challenge-of-scriptwriting|The Challenge of Scriptwriting]]
+[The Challenge of Scriptwriting](the-challenge-of-scriptwriting.md)
 
-[[content/category-01/admired-scriptwriters|Admired Scriptwriters]]
+[Admired Scriptwriters](admired-scriptwriters.md|)
 
-[[content/category-01/the-framework-of-a-script|The Framework of a Script]]
+[The Framework of a Script](the-framework-of-a-script.md)
 
-[[content/category-01/from-script to-screen|From Script to Screen]]
+[From Script to Screen](from-script to-screen.md)
 
-[[content/category-01/what-makes-a-good-script|What Makes a Good Script]]
-
+[What Makes a Good Script](what-makes-a-good-script.md)
 
 ## Related Categories 
 

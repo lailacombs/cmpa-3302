@@ -1,7 +1,7 @@
 ## Scriptwriting 
 ### What Makes A Good Script
 
-![George Bailey and his family in *It's A Wonderful Life*](its-a-wonderful-life.jpg)
+![George Bailey and his family in *It's A Wonderful Life*](content/category-01/its-a-wonderful-life.jpg)
 
 (George Bailey and his family in *It's A Wonderful Life*)
 
