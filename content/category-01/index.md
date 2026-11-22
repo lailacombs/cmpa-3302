@@ -7,7 +7,7 @@ Content:
 
 [The Challenge of Scriptwriting](the-challenge-of-scriptwriting.md)
 
-[Admired Scriptwriters](admired-scriptwriters.md|)
+[Admired Scriptwriters](admired-scriptwriters.md)
 
 [The Framework of a Script](the-framework-of-a-script.md)
 
