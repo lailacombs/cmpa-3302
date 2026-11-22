@@ -23,7 +23,10 @@ Jon Erwin is a new favorite for me. I have seen many of his films, such as *Wood
 >"Just write. It doesn't matter what you write. Just sit at that desk and write." - Emma Thompson
 
 
-[[the-challenge-of-scriptwriting|The Challenge of Scriptwriting]]
-[[content/category-01/the-framework-of-a-script|The Framework of a Script]]
-[[content/category-01/from-script to-screen|From Script to Screen]]
-[[content/category-01/what-makes-a-good-script|What Makes a Good Script]]
+[The Challenge of Scriptwriting](the-challenge-of-scriptwriting.md)
+
+[The Framework of a Script](the-framework-of-a-script.md)
+
+[From Script to Screen](from-script to-screen.md)
+
+[What Makes a Good Script](what-makes-a-good-script.md)

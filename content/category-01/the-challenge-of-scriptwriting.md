@@ -19,7 +19,10 @@ For example, when writing a novel, the author can take as much time as they like
 > _"To make a great film you need three things—the script, the script and the script."_ — Alfred Hitchcock 
 
 
-[[content/category-01/admired-scriptwriters|Admired Scriptwriters]]
-[[content/category-01/the-framework-of-a-script|The Framework of a Script]]
-[[content/category-01/from-script to-screen|From Script to Screen]]
-[[content/category-01/what-makes-a-good-script|What Makes a Good Script]]
+[Admired Scriptwriters](admired-scriptwriters.md)
+
+[The Framework of a Script](the-framework-of-a-script.md)
+
+[From Script to Screen](from-script to-screen.md)
+
+[What Makes a Good Script](what-makes-a-good-script.md)

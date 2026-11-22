@@ -14,7 +14,10 @@ Script expert:
  ![An image of Neytitri|297](avatar-image.jpg)
 (An image of Neytitri)
 
-[[the-challenge-of-scriptwriting|The Challenge of Scriptwriting]]
-[[content/category-01/admired-scriptwriters|Admired Scriptwriters]]
-[[content/category-01/the-framework-of-a-script|The Framework of a Script]]
-[[content/category-01/what-makes-a-good-script|What Makes a Good Script]]
+[The Challenge of Scriptwriting](the-challenge-of-scriptwriting.md)
+
+[Admired Scriptwriters](admired-scriptwriters.md)
+
+[The Framework of a Script](the-framework-of-a-script.md)
+
+[What Makes a Good Script](what-makes-a-good-script.md)
