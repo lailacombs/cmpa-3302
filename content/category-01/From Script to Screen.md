@@ -4,7 +4,7 @@
 Every page of a script is black and white. Color can only be written or described. That means the scriptwriter has to clearly articulate their vision to those reading it. Here is an example of how this happens:
 
 ### Avatar (2009)
-(Descriptive script text):
+Script expert:
 
  > She is lithe as a cat, with a long neck, muscular shoulders, and nubile breasts. And she is devastatingly beautiful -- for a girl with a tail. In human age she would be 18. Her name is NEYTIRI(nay-Tee-ree).
  
