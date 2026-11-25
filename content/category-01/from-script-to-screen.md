@@ -1,7 +1,9 @@
 ## Scriptwriting 
 ### From Script to Screen
 
-![[script-pages.jpg|309]]
+![[script-pages.jpg|295]]
+
+![Script|310](content/category-01/script-pages.jpg)
 Every page of a script is black and white. Color can only be written or described. That means the scriptwriter must clearly articulate their vision to those reading it. Here is an example of how this happens:
 
 ### Avatar (2009)
