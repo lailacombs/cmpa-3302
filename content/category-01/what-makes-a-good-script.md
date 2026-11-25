@@ -5,7 +5,7 @@
 
 (George Bailey and his family in *It's A Wonderful Life*)
 
-There is no doubt it takes skill and determination to write a script. What classifies a script as good or bad is less straightforward. No genre is an automatic success. A romantic script won't inherently be any better than a comedy. 
+There is no doubt it takes skill and determination to write a script. What classifies a script as good or bad is less straightforward. No genre is an automatic success. For example, a romantic script won't inherently be any better than a comedy. 
 
 ### Key Factors for a Good Script 
 
@@ -25,7 +25,8 @@ There is no doubt it takes skill and determination to write a script. What class
 
 4. Emotional bonds can't survive through confusion. If the audience isn't being taken on a clear path, rest assured they will question everything. Suddenly, the characters no longer feel real.
 
-5. All of this takes intentionality. Scriptwriters must write from the perspective of dozens of people: every character speaking, the audience, and themselves. A writer should never forget to write with their values in mind and be willing to sacrifice lines and scenes for the story. 
+5. All of this takes intentionality. Scriptwriters must write from the perspective of dozens of people: every character speaking, the audience, and themselves. A writer should never forget to write with their values in mind and be willing to sacrifice lines and scenes for the story. Here is an example of having to write from multiple perspectives:
+			![](content/assets/angel-blood-screenplay-pages.pdf) 
 
 > A good script requires some novelty and loads of empathy.
 
