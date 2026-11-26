@@ -27,7 +27,7 @@ There is no doubt it takes skill and determination to write a script. What class
 
 5. All of this takes intentionality. Scriptwriters must write from the perspective of dozens of people: every character speaking, the audience, and themselves. A writer should never forget to write with their values in mind and be willing to sacrifice lines and scenes for the story. Here is an example of having to write from multiple perspectives:
 
-	![](content/assets/angel-blood-screenplay-pages.pdf) 
+	![angel-blood-screenplay-pages](content/assets/angel-blood-screenplay-pages.pdf) 
 	
 > A good script requires some novelty and loads of empathy.
 
